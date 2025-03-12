@@ -30,7 +30,7 @@ if b2:
   st.video(vid2)
 
 with col3:
-  b3 = st.button("Bấm để nghe tiếng con chim")
+  b3 = st.button("Bấm để nghe tiếng con vịt")
 if b3:
   duck = "https://images.unsplash.com/photo-1465153690352-10c1b29577f8?q=80&w=1430&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   st.image(duck, caption = "Con vịt")
