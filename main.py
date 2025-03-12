@@ -24,7 +24,7 @@ if b2:
   cat = "https://images.pexels.com/photos/10520684/pexels-photo-10520684.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   st.image(cat, caption = "Con mèo")
 
-  st.audio(url("cat.mp3"))
+  st.audio(url("cat.wav"))
 
   vid2 = "https://www.youtube.com/watch?v=WRlSx_qpFk8"
   st.video(vid2)
